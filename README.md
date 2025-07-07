@@ -24,3 +24,7 @@ To Install it: https://github.com/dgsrosa/raspberryPi0_WiFiRepeater/tree/main/RT
 
 _____________________________
 
+- **Steps:**
+
+1. Just Write your Kali Image in the RasPI 0.
+2. Remove GUI (I will upload the bash as soons as Possible) 
